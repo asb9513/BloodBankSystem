@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  BloodSystem
 //
-//  Created by Hany Karam on 8/5/20.
-//  Copyright © 2020 Hany Karam. All rights reserved.
+//  Created by Ahmed Saeed on 8/5/20.
+//  Copyright © 2020 Ahmed Saeed. All rights reserved.
 //
 
 import UIKit
